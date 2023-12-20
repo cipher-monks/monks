@@ -14,3 +14,6 @@ struct PeripheralNervousSystem {
 	// efferent_division: x,
 	// afferent_division: y,
 }
+
+fn main() {
+}

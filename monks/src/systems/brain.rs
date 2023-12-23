@@ -21,6 +21,7 @@ struct AffectiveValue {
 
 
 struct DecisionMakingOutput {
+// need to define what decisions can the monk do
 }
 
 
